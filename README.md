@@ -1,6 +1,5 @@
 ### Hi there 👋
-HI THERE
-<span style="color: #000; font-family: Babas;">HI THERE!</span>
+
 <!--
 **theoxys/theoxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
