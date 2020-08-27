@@ -34,7 +34,9 @@ User:{
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/theoxys/theoxys/blob/master/figma.svg" alt="UIUX" style="vertical-align:top; margin:4px">
 </p>
-  <h3><a href="www.linkedin.com/in/theoxys">☕ Contact<a></h3> <h3><a href="https://www.behance.net/matheusferreira25">📒 Portfólio<a></h3>
+  <p align="center">
+  <h3><a href="www.linkedin.com/in/theoxys">☕ Contact</a> | <a href="https://www.behance.net/matheusferreira25">📒 Portfólio<a></h3>
+  </p>
 </div>
 
 
