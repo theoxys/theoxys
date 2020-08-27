@@ -5,6 +5,8 @@
 <p>
 <i>Entrepreneur enthusiast based in itajubá. Founder  of BlackFex, a multiplatform development, team management and smart recruitment company. Every weekend with a new Startup idea. Caffeine addict. Dark Theme lover. Running since 1998!</i></p>
 </div>
+
+
 ```
 User:{
   'name':'Matheus Ferreira Rangel Pires',
@@ -16,6 +18,8 @@ User:{
   'linkdeIn':'www.linkedin.com/in/theoxys'
 }
 ```
+
+
 <div align="center">
 <h3>Skills</h3>
 <p align="center">
@@ -30,16 +34,4 @@ User:{
   <img src="https://github.com/theoxys/theoxys/blob/master/figma.svg" alt="UIUX" style="vertical-align:top; margin:4px">
 </p>
 
-</div>
 
-```
-User:{
-  'name':'Matheus Ferreira Rangel Pires',
-  'age':22,
-  'country':'Brazil',
-  'email':'ferreiramatheus48@gmail.com',
-  'company':'BlackFex',
-  'office':'CEO',
-  'linkdeIn':'www.linkedin.com/in/theoxys'
-}
-```
