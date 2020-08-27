@@ -1,7 +1,7 @@
 <h1 align="center">Hey, Whats'up!? I'm Matheus 🍕</h1>
 
 <div align="center">
-<h3>Front-End Developer && Graphic Designer</h3>
+<h3>💻 Front-End Developer | 🖋 Graphic Designer</h3>
 <p>
 <i>Entrepreneur enthusiast based in itajubá. Founder  of BlackFex, a multiplatform development, team management and smart recruitment company. Every weekend with a new Startup idea. Caffeine addict. Dark Theme lover. Running since 1998!</i></p>
 </div>
@@ -21,7 +21,7 @@ User:{
 
 
 <div align="center">
-<h3>Skills</h3>
+<h3>🚀 Skills</h3>
 <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
@@ -33,5 +33,7 @@ User:{
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/theoxys/theoxys/blob/master/figma.svg" alt="UIUX" style="vertical-align:top; margin:4px">
 </p>
+<h3>☕ Contact | Portfólio </h3>
+</div>
 
 
