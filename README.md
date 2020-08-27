@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/theoxys/theoxys/blob/master/linkedinCover.png" alt="BlackFex" style="vertical-align:top; margin:4px">
+</p>
+
 <h1 align="center">Hey, Whats'up!? I'm Matheus 🍕</h1>
 
 <div align="center">
