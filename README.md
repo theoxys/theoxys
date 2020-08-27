@@ -22,6 +22,7 @@ User:{
 
 <div align="center">
 <h3>🚀 Skills</h3>
+ <br>
 <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
@@ -33,7 +34,7 @@ User:{
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/theoxys/theoxys/blob/master/figma.svg" alt="UIUX" style="vertical-align:top; margin:4px">
 </p>
-<h3>☕ Contact | Portfólio </h3>
+  <h3><a href="www.linkedin.com/in/theoxys">☕ Contact<a></h3> <h3><a href="https://www.behance.net/matheusferreira25">📒 Portfólio<a></h3>
 </div>
 
 
