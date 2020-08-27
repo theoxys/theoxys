@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hey, Whats'up!? I'm Matheus 🍕</h1>
 
+<div align="center">
+  <h4>Front-End Developer && Graphic Designer</h4>
+<i>Entrepreneur enthusiast based in itajubá. Founder  of BlackFex, a multiplatform development, team management and smart recruitment company. Every weekend with a new Startup idea. Caffeine addict. Dark Theme lover. Running since 1998!</i>
+
+<h4>Skills</h4>
+
+</div>
 <!--
 **theoxys/theoxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
