@@ -18,7 +18,7 @@ User:{
   'country':'Brazil',
   'email':'ferreiramatheus48@gmail.com',
   'company':'BlackFex',
-  'office':'CEO',
+  'office':'Founder',
   'linkdeIn':'www.linkedin.com/in/theoxys'
 }
 ```
