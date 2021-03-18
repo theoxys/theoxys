@@ -30,7 +30,7 @@ const me = {
 <div align="center">
 <h3>🚀 Front End Skills</h3>
  <br>
-<p align="left">
+<p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
@@ -42,9 +42,10 @@ const me = {
  <br>
 <h3>🚀 Back End Skills</h3>
  <br>
-<p align="left">
+<p align="center">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="noddejs" style="vertical-align:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws@3x.png" alt="AWS" style="vertical-align:top; margin:4px">
 
 </p>
  
