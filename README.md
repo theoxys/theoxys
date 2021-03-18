@@ -46,6 +46,11 @@ const me = {
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="noddejs" style="vertical-align:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="AWS" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/theoxys/theoxys/blob/master/postgres.png" alt="Postgres" style="vertical-align:top; margin:4px">
+  
+  <img src="https://github.com/theoxys/theoxys/blob/master/mmongodb.png" alt="Mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/theoxys/theoxys/blob/master/express.png" alt="Express" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/theoxys/theoxys/blob/master/typescript.png" alt="Typescript" style="vertical-align:top; margin:4px">
 
 </p>
  
