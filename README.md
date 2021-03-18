@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/theoxys/theoxys/blob/master/linkedinCover.png" alt="BlackFex" style="vertical-align:top; margin:4px">
+<img src="https://github.com/theoxys/theoxys/blob/master/Group%201497BGGG.png" alt="BlackFex" style="vertical-align:top; margin:4px">
 </p>
 
 <h1 align="center">Hey, Whats'up!? I'm Matheus 🍕</h1>
@@ -45,7 +45,7 @@ const me = {
 <p align="center">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="noddejs" style="vertical-align:top; margin:4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws@3x.png" alt="AWS" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="AWS" style="vertical-align:top; margin:4px">
 
 </p>
  
