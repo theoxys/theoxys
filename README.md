@@ -21,8 +21,8 @@ const me = {
   age:22,
   country:'Brazil',
   email:'ferreiramatheus48@gmail.com',
-  company:'Tech4HUmans',
-  linkdeIn:'www.linkedin.com/in/theoxys'
+  company:'Movidesk',
+  linkdeIn:'www.linkedin.com/in/matheusfpires/'
 }
 ```
 
@@ -55,7 +55,7 @@ const me = {
 </p>
  
   <p align="center">
-  <h3><a href="www.linkedin.com/in/theoxys">☕ Contact</a> | <a href="https://dribbble.com/matheufspires">📒 Portfólio<a></h3>
+  <h3><a href="www.linkedin.com/in/matheusfpires/">☕ Contact</a> | <a href="https://dribbble.com/matheufspires">📒 Portfólio<a></h3>
   </p>
 </div>
 
