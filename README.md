@@ -5,7 +5,7 @@
 <h1 align="center">Hey, Whats'up!? I'm Matheus 🍕</h1>
 
 <div align="center">
-<h3>💻 Full-Stack Developer | 🖋 UI/UX Designer</h3>
+<h3>💻 Front End Engineer | 🖋 UI Designer</h3>
 <p>
 <i>Entrepreneur enthusiast based in itajubá. Founder  of BlackFex, a multiplatform development, team management and smart recruitment company. Every weekend with a new Startup idea. Caffeine addicted. Dark Theme lover. Running since 1998!</i></p>
 </div>
