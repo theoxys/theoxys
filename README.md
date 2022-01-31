@@ -17,7 +17,7 @@ const me = {
   currentlyFrontendStack: 'React',
   currentlyBackendStack: 'Nodejs',
   currentlyMobileStack: 'React Native',
-  age:22,
+  age:23,
   country:'Brazil',
   email:'ferreiramatheus48@gmail.com',
   company:'Movidesk',
