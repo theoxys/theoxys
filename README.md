@@ -20,7 +20,7 @@ const me = {
   age:23,
   country:'Brazil',
   email:'ferreiramatheus48@gmail.com',
-  company:'Movidesk',
+  company:'iFood',
   linkdeIn:'www.linkedin.com/in/matheusfpires/'
 }
 ```
