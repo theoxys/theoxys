@@ -2,56 +2,45 @@
 <img src="https://github.com/theoxys/theoxys/blob/master/Group%201497BGGG.png" alt="BlackFex" style="vertical-align:top; margin:4px">
 </p>
 
-<h1 align="center">Hey, Whats'up!? I'm Matheus 🍕</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1643515422/14423/cat-roomba.gif?1643515422" width="30"/> Hey, Whats'up?</h1>
 
 <div align="center">
-<h3>💻 Front End Engineer | 🖋 UI Designer</h3>
+<h3>🖥 Welcome! I'm Matheus, Software Engineer based in Brazil <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="18"/></h3>
+</br>
+  
 <p>
-<i>Entrepreneur enthusiast based in itajubá. Founder  of BlackFex, a multiplatform development, team management and smart recruitment company. Every weekend with a new Startup idea. Caffeine addicted. Dark Theme lover. Running since 1998!</i></p>
+<i>A developer who loves exercising creativity through code. Developing personal projects is one of my passions. Working as a team is something that energizes me – I love exchanging ideas and collaborating. 🚀 Every weekend with a new Startup idea. 🎵 Musician in spare time. ☕ Caffeine addicted. 🖤 Dark Theme lover. 👶 Running since 1998!</i>
+</p>
+
+<p><i>
+Let's talk and create something amazing together!
+</i></p>
 </div>
 
 ```javascript
-const me = {
-  name:'Matheus',
+const User = {
+  firstName: 'Matheus',
   lastName: 'Pires',
-  age:25,
-  country:'Brazil',
-  email:'ferreiramatheus48@gmail.com',
-  linkdeIn:'www.linkedin.com/in/matheusfpires/'
+  age: 25,
+  country: 'Brazil',
+  contactEmail: 'ferreiramatheus48@gmail.com',
+  linkdeIn: 'www.linkedin.com/in/matheusfpires/'
 }
 ```
-
-
 <div align="center">
-<h3>🚀 Front End Skills</h3>
- <br>
-<p align="center">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" alt="next" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/theoxys/theoxys/blob/master/figma.svg" alt="UIUX" style="vertical-align:top; margin:4px">
-</p>
- <br>
-<h3>🚀 Back End Skills</h3>
- <br>
-<p align="center">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="noddejs" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/services/aws.png" alt="AWS" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/theoxys/theoxys/blob/master/postgres.png" alt="Postgres" style="vertical-align:top; margin:4px">
-  
-  <img src="https://github.com/theoxys/theoxys/blob/master/mmongodb.png" alt="Mongodb" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/theoxys/theoxys/blob/master/express.png" alt="Express" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/theoxys/theoxys/blob/master/typescript.png" alt="Typescript" style="vertical-align:top; margin:4px">
 
-</p>
- 
-  <p align="center">
-  <h3><a href="www.linkedin.com/in/matheusfpires/">☕ Contact</a> | <a href="https://dribbble.com/matheufspires">📒 Portfólio<a></h3>
-  </p>
+#### 🔸 Stacks that I am an expert in and currently use in my personal and freelance projects:
+![Static Badge](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Next13-black?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-darkslategrey?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Prisma-cadetblue?logo=prisma&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Node-green?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/NestJS-firebrick?logo=nestjs&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Planetscale-black?logo=planetscale&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Railway-indigo?logo=railway&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Amazon%20S3-goldenrod?logo=amazonaws&logoColor=white&style=for-the-badge)
+
 </div>
+
 
 
