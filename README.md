@@ -14,13 +14,9 @@
 const me = {
   name:'Matheus',
   lastName: 'Pires',
-  currentlyFrontendStack: 'React',
-  currentlyBackendStack: 'Nodejs',
-  currentlyMobileStack: 'React Native',
-  age:23,
+  age:25,
   country:'Brazil',
   email:'ferreiramatheus48@gmail.com',
-  company:'iFood',
   linkdeIn:'www.linkedin.com/in/matheusfpires/'
 }
 ```
@@ -31,7 +27,7 @@ const me = {
  <br>
 <p align="center">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/ionic.svg" alt="next" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
