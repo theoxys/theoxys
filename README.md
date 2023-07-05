@@ -29,7 +29,7 @@ const User = {
 ```
 <div align="center">
 
-#### 🔸 Stacks that I am an expert in and currently use in my personal and freelance projects:
+#### 🔸 Stack that I'm an expert in and currently use in my personal and freelance projects:
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Next13-black?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/TailwindCSS-darkslategrey?logo=tailwindcss&logoColor=white&style=for-the-badge)
