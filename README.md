@@ -21,7 +21,7 @@ Let's talk and create something amazing together!
 const User = {
   firstName: 'Matheus',
   lastName: 'Pires',
-  age: 25,
+  age: 26,
   country: 'Brazil',
   contactEmail: 'ferreiramatheus48@gmail.com',
   linkdeIn: 'www.linkedin.com/in/matheusfpires/'
